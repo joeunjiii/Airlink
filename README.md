@@ -55,3 +55,9 @@ AI 기반 예측 모델, 위치 기반 제어(Geofence), 실시간 센서 연동
 - 공기질 자동화 관리로 **삶의 질 향상**
 - 위치 기반 설정 및 예측으로 **사용자 개입 최소화**
 - 하드웨어 + 소프트웨어 + AI가 결합된 **융합형 IoT 프로젝트**
+
+---
+
+## Airlink 포스터 
+[Airlink_poster.pdf](https://github.com/user-attachments/files/21512170/Airlink_poster.pdf)
+
